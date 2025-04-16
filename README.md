@@ -61,9 +61,15 @@ I'm a Computer Systems Engineering student passionate about music, web/mobile de
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
+- 🖥️ 
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+
+- 🧪 
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+  
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
