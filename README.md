@@ -60,13 +60,12 @@ I'm a Computer Systems Engineering student passionate about music, web/mobile de
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-- 🖥️ 
+- 🖥️ &nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-- 🧪 
+- 🧪 &nbsp;
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   
